@@ -5,7 +5,7 @@ Here names of MCS110 Executives and our activities
 
 
 * [Muhammad Azri](https://www.linkedin.com/in/azrizzz/) - #Application Developer *Fiction Labs Sdn Bhd<br>
-    # Title1: Angular5
+    # Title1: Angular4
     # Title2: Ionic Framework
 
 * [Rafieq Roslan](https://www.linkedin.com/in/rafieq-roslan/) - #Business Intelligent Developer *Augmented Innovation Sdn Bhd<br>
